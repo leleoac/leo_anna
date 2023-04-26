@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ConcertHall
+comment0.text=\r\n\ Serve\ para\ inicializar\ os\ objetos\ e\ testalos.\r\n\r\n\ @author\ 202100213-202200009\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=ConcertHall()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ConcertHall\r\n
+numComments=2

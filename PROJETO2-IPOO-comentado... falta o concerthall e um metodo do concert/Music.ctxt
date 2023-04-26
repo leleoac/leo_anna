@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Music
+comment0.text=\r\nUma\ m\u00FAsica\ que\ tem\ um\ conjunto\ de\ fam\u00EDlias\ de\ instrumentos.\r\n\r\n\ @author\ 202100213-202200009\r\n\ @version\ 1\r\n
+comment1.params=title\ duration\ musicStyle
+comment1.target=Music(java.lang.String,\ double,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Music\r\n\ @param\ title\ -\ title\ of\ the\ music.\r\n\ @param\ duration\ -\ duration\ of\ the\ music.\r\n\ @param\ musicStyle\ -\ style\ of\ the\ music.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ Return\ the\ music\ title.\r\n\ @return\ the\ title\ of\ the\ music.\r\n
+comment3.params=
+comment3.target=double\ getTime()
+comment3.text=\r\n\ Return\ the\ duration\ of\ the\ music.\r\n\ @return\ the\ music\ duration.\r\n
+comment4.params=
+comment4.target=MusicStyle\ getMusicStyle()
+comment4.text=\r\n\ Return\ the\ music\ style.\r\n\ @return\ the\ style\ of\ the\ music.\r\n
+comment5.params=musicStyle
+comment5.target=MusicStyle\ addNewMusicStyle(java.lang.String)
+comment6.params=familyName
+comment6.target=InstrumentsFamily\ addNewFamily(java.lang.String)
+comment6.text=\r\n\ Add\ a\ family\ of\ instruments\ into\ the\ music\ list.\r\n\ @param\ familyName\ -\ family\ name.\r\n\ @return\ the\ name\ of\ the\ family.\r\n
+comment7.params=family
+comment7.target=boolean\ hasMusicFamilys(InstrumentsFamily)
+comment7.text=\r\n\ Verify\ is\ existe\ a\ especific\ family.\r\n\ @param\ family\ -\ family\ of\ instruments.\r\n\ @return\ true\ if\ the\ family\ existe\r\n
+comment8.params=
+comment8.target=void\ showMusic()
+comment8.text=\r\n\ Show\ the\ music\ statistics.\r\n
+numComments=9

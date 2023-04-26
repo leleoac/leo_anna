@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Maestro
+comment0.text=\r\nUm\ maestro,\ respons\u00E1vel\ por\ dirigir\ uma\ orquestra.\r\n\r\n\ @author\ 202100213-202200009\r\n\ @version\ 1\r\n
+comment1.params=ranking\ maestroName
+comment1.target=Maestro(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Maestro.\r\n\ @param\ ranking\ -\ rank\ of\ the\ maestro.\r\n\ @param\ maestroName\ -\ maestro\ name.\r\n
+comment2.params=musicStyle
+comment2.target=MusicStyle\ addNewMusicStyle(java.lang.String)
+comment2.text=\r\n\ Add\ a\ music\ Style.\r\n\ @param\ musicStyle\ -\ style\ of\ the\ music\r\n\ @return\ the\ style\ of\ the\ music.\r\n
+comment3.params=
+comment3.target=void\ showDescription()
+comment3.text=\r\nShow\ the\ maestro\ description.\r\n
+numComments=4
